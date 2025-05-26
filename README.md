@@ -111,6 +111,7 @@ HPPD was born as a simple way to bridge that gap. It’s straightforward, practi
 * Build a free spreadsheet template with the formulas
 * Share a GitHub repo with sample data
 * Test with different teams and contexts
+* Create plugins for popular task managers (Jira, Trello, ClickUp, etc.)
 
 ---
 
