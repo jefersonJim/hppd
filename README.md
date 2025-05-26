@@ -4,7 +4,7 @@
 
 
 
-<img src="./images/hppd-cover.png" alt="drawing" style="width:300px;"/>
+<img src="./images/hppd_cover.png" alt="drawing" style="width:300px;"/>
 
 **HPPD** is a simple and effective methodology to estimate task duration based on difficulty (story points) and the specific developer executing the task.
 
