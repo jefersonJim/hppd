@@ -1,4 +1,7 @@
 # HPPD – Hours per Point per Developer
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
+![Status: Beta](https://img.shields.io/badge/status-beta-blue)
+
 
 
 <img src="./images/hppd-cover.png" alt="drawing" style="width:300px;"/>
